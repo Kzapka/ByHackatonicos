@@ -13,9 +13,9 @@
         <img src="images/home.png" />
     </div>
     <div>
-        <h3>Page Settings</h3>>
+        <h3>Page Settings</h3>
         <img scr=images/settings.png>
-    </div>>
+    </div>
 </body>
 
 </html>
