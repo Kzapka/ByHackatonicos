@@ -10,7 +10,7 @@
 <body>
     <div>
         <h3>TESTE</h3>>
-        <img src=”images/teste.png” alt=”some text” width=300 height=200>
+        <img src=”images/teste.png”>
 
     </div>
 </body>
