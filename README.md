@@ -10,7 +10,7 @@
 <body>
     <div>
         <h3>Page Home</h3>
-        <img src="images/home.png" />
+        <img src="images/home.jpg" />
     </div>
     <div>
         <h3>Page Settings</h3>
