@@ -10,8 +10,7 @@
 <body>
     <div>
         <h3>TESTE</h3>>
-        <img src="images/teste.png"/>
+        <img src="images/teste.png"/
     </div>
 </body>
-
 </html>
