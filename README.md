@@ -8,9 +8,7 @@
 </head>
 
 <body>
-    <div>
         <h3>TESTE</h3>>
-        <img src="images/teste.png"/
-    </div>
+        <img src="images/teste.png"/>
 </body>
 </html>
