@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>HACKATONICOS</title>
+	<h1>HACKATONICOS</h1>
 </head>
 <body>
 	<div>
 		
-<h1>What are we?
+<h3>What are we?
 
 We are an app designed for citizens who live in risky areas and suffer from burns.
 
@@ -29,7 +29,7 @@ We will also publicize partner NGOs and their work on firefighting.
 Monetization
 
 We will work with donations, partnerships with NGOs and governments, and sell cause-related things (T-shirts, bracelets, etc.).
-</h1>
+</h3>
 	</div>
 </body>
 </html>
